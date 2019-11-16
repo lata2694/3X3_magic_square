@@ -22,4 +22,5 @@ We can convert it to the following magic square:
 1 5 9
 
 6 7 2
+
 This took three replacements at a cost of |5-8|+|8-9|+|4-7| = 7.
